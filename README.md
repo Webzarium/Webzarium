@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi
-
 - 🔭 I’m currently working on EPAM
 - 🌱 I'm a beginner programmer
 - 👯 I’m looking to collaborate on ...
