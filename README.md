@@ -4,7 +4,7 @@
 - 🌱 I'm a beginner programmer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: [facebook.com](https://www.facebook.com/LeanidKuz)
+- 📫 How to reach me: [facebook.com](https://www.facebook.com/WebZar/)
 
 
 
